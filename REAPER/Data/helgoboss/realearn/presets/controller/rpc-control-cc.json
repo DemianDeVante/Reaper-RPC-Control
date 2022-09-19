@@ -1,0 +1,880 @@
+{
+  "version": "2.13.1",
+  "name": "RPC Control CC",
+  "defaultGroup": {},
+  "groups": [
+    {
+      "id": "vpMWT7EiiGk6sgJwYUL4f",
+      "name": "Knobs Control Change"
+    },
+    {
+      "id": "QmCzJKE2DnwPHh3jrcFqF",
+      "name": "Pads Control Change"
+    },
+    {
+      "id": "lFTpHNkSbSQSu66K3NAZS",
+      "name": "Pads Program Change"
+    },
+    {
+      "id": "9gpRgVAzbsAHGi-fKjCL_",
+      "name": "Modifier"
+    }
+  ],
+  "mappings": [
+    {
+      "id": "qndwmure6ayguPT8Admbp",
+      "name": "Knob 1",
+      "groupId": "vpMWT7EiiGk6sgJwYUL4f",
+      "source": {
+        "channel": 0,
+        "number": 102,
+        "character": 2,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "type": 53,
+        "fxAnchor": "id",
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "9gOrS2CcjxvvWrvc6P57y",
+      "name": "Knob 2",
+      "groupId": "vpMWT7EiiGk6sgJwYUL4f",
+      "source": {
+        "channel": 0,
+        "number": 103,
+        "character": 2,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "type": 53,
+        "fxAnchor": "id",
+        "controlElementIndex": 1,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "FgIGYegZsaVmEe_g-WBeo",
+      "name": "Knob 3",
+      "groupId": "vpMWT7EiiGk6sgJwYUL4f",
+      "source": {
+        "channel": 0,
+        "number": 104,
+        "character": 2,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "type": 53,
+        "fxAnchor": "id",
+        "controlElementIndex": 2,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "qjtHrH3L3RqoVNO9oeXNf",
+      "name": "Knob 4",
+      "groupId": "vpMWT7EiiGk6sgJwYUL4f",
+      "source": {
+        "channel": 0,
+        "number": 105,
+        "character": 2,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "type": 53,
+        "fxAnchor": "id",
+        "controlElementIndex": 3,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "zDeiyJAUf-X-v4FSZRuCv",
+      "name": "Knob 5",
+      "groupId": "vpMWT7EiiGk6sgJwYUL4f",
+      "source": {
+        "channel": 0,
+        "number": 106,
+        "character": 2,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "type": 53,
+        "fxAnchor": "id",
+        "controlElementIndex": 4,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "B1GS80uzCUhedIfWScPJ8",
+      "name": "Knob 6",
+      "groupId": "vpMWT7EiiGk6sgJwYUL4f",
+      "source": {
+        "channel": 0,
+        "number": 107,
+        "character": 2,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "type": 53,
+        "fxAnchor": "id",
+        "controlElementIndex": 5,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "ISqxjlthmvgbz0cu-GrdK",
+      "name": "Knob 7",
+      "groupId": "vpMWT7EiiGk6sgJwYUL4f",
+      "source": {
+        "channel": 0,
+        "number": 108,
+        "character": 2,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "type": 53,
+        "fxAnchor": "id",
+        "controlElementIndex": 6,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "B00GlbUAckcvRpKjqAs9W",
+      "name": "Knob 8",
+      "groupId": "vpMWT7EiiGk6sgJwYUL4f",
+      "source": {
+        "channel": 0,
+        "number": 109,
+        "character": 2,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "type": 53,
+        "fxAnchor": "id",
+        "controlElementIndex": 7,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "D4PV-JBi-GGSis-2RUHQF",
+      "groupId": "QmCzJKE2DnwPHh3jrcFqF",
+      "source": {
+        "channel": 9,
+        "number": 16,
+        "character": 1,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "fxAnchor": "this",
+        "controlElementType": "button",
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "R7y0Od7KA7zD0njO3EI0p",
+      "groupId": "QmCzJKE2DnwPHh3jrcFqF",
+      "source": {
+        "channel": 9,
+        "number": 17,
+        "character": 1,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "fxAnchor": "this",
+        "paramIndex": 1,
+        "controlElementType": "button",
+        "controlElementIndex": 1,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "I4I0WF0Xw2CfWXpIyj-98",
+      "groupId": "QmCzJKE2DnwPHh3jrcFqF",
+      "source": {
+        "channel": 9,
+        "number": 18,
+        "character": 1,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "fxAnchor": "this",
+        "paramIndex": 1,
+        "controlElementType": "button",
+        "controlElementIndex": 2,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "1_jsOEyD-lAWAFIjf_Ye0",
+      "groupId": "QmCzJKE2DnwPHh3jrcFqF",
+      "source": {
+        "channel": 9,
+        "number": 19,
+        "character": 1,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "fxAnchor": "this",
+        "paramIndex": 1,
+        "controlElementType": "button",
+        "controlElementIndex": 3,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "rQ8jzKC_A0uKTuZQsLA2k",
+      "groupId": "QmCzJKE2DnwPHh3jrcFqF",
+      "source": {
+        "channel": 9,
+        "number": 20,
+        "character": 1,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "fxAnchor": "this",
+        "paramIndex": 1,
+        "controlElementType": "button",
+        "controlElementIndex": 4,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "yZG3XsiKg4eWJ-tHgKrUC",
+      "groupId": "QmCzJKE2DnwPHh3jrcFqF",
+      "source": {
+        "channel": 9,
+        "number": 21,
+        "character": 1,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "fxAnchor": "this",
+        "paramIndex": 1,
+        "controlElementType": "button",
+        "controlElementIndex": 5,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "2NkktHd496jj6NsV-vkgk",
+      "groupId": "QmCzJKE2DnwPHh3jrcFqF",
+      "source": {
+        "channel": 9,
+        "number": 22,
+        "character": 1,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "fxAnchor": "this",
+        "paramIndex": 1,
+        "controlElementType": "button",
+        "controlElementIndex": 6,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "XroJEyiEi5ZmUrxaBdMj4",
+      "groupId": "QmCzJKE2DnwPHh3jrcFqF",
+      "source": {
+        "channel": 9,
+        "number": 23,
+        "character": 1,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "fxAnchor": "this",
+        "paramIndex": 1,
+        "controlElementType": "button",
+        "controlElementIndex": 7,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "0U2lKsXCkhGX8ht9I341p",
+      "groupId": "QmCzJKE2DnwPHh3jrcFqF",
+      "source": {
+        "channel": 9,
+        "number": 24,
+        "character": 1,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "fxAnchor": "this",
+        "paramIndex": 1,
+        "controlElementType": "button",
+        "controlElementIndex": 8,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "DWfu2GfPi-L95TI_BkoFc",
+      "groupId": "QmCzJKE2DnwPHh3jrcFqF",
+      "source": {
+        "channel": 9,
+        "number": 25,
+        "character": 1,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "fxAnchor": "this",
+        "paramIndex": 1,
+        "controlElementType": "button",
+        "controlElementIndex": 9,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "WyT2QdHAs1ZDacdE0gnBw",
+      "groupId": "QmCzJKE2DnwPHh3jrcFqF",
+      "source": {
+        "channel": 9,
+        "number": 26,
+        "character": 1,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "fxAnchor": "this",
+        "paramIndex": 1,
+        "controlElementType": "button",
+        "controlElementIndex": 10,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "QU2c7K7EKjBsdVvDaoqwS",
+      "groupId": "QmCzJKE2DnwPHh3jrcFqF",
+      "source": {
+        "channel": 9,
+        "number": 27,
+        "character": 1,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "fxAnchor": "this",
+        "paramIndex": 1,
+        "controlElementType": "button",
+        "controlElementIndex": 11,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "0k1gqYmGDrslvMzzhk3wq",
+      "groupId": "QmCzJKE2DnwPHh3jrcFqF",
+      "source": {
+        "channel": 9,
+        "number": 28,
+        "character": 1,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "fxAnchor": "this",
+        "paramIndex": 1,
+        "controlElementType": "button",
+        "controlElementIndex": 12,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "u_tIyOxRJ3n-6N8bhlLqK",
+      "groupId": "QmCzJKE2DnwPHh3jrcFqF",
+      "source": {
+        "channel": 9,
+        "number": 29,
+        "character": 1,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "fxAnchor": "this",
+        "paramIndex": 1,
+        "controlElementType": "button",
+        "controlElementIndex": 13,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "84CaeMjhUyFdVgxBm_7F_",
+      "groupId": "QmCzJKE2DnwPHh3jrcFqF",
+      "source": {
+        "channel": 9,
+        "number": 30,
+        "character": 1,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "fxAnchor": "this",
+        "paramIndex": 1,
+        "controlElementType": "button",
+        "controlElementIndex": 14,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "rF_seZszYz6vBv1R_vkKK",
+      "groupId": "QmCzJKE2DnwPHh3jrcFqF",
+      "source": {
+        "channel": 9,
+        "number": 31,
+        "character": 1,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "category": "virtual",
+        "fxAnchor": "this",
+        "paramIndex": 1,
+        "controlElementType": "button",
+        "controlElementIndex": 15,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "jRiap9R_AKFV3OWW2ivtd",
+      "name": "Bank 1",
+      "groupId": "lFTpHNkSbSQSu66K3NAZS",
+      "source": {
+        "type": 5,
+        "channel": 9,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "type": 1,
+        "minSourceValue": 0.007874015748031496,
+        "maxSourceValue": 0.007874015748031496,
+        "minTargetValue": 0.01,
+        "maxTargetValue": 0.01,
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 1,
+        "outOfRangeBehavior": "min"
+      },
+      "target": {
+        "unit": "percent",
+        "fxAnchor": "this",
+        "controlElementType": "button",
+        "controlElementIndex": 16,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "Rm3UwpyKQhvKy9tVSFqgC",
+      "name": "Bank 2",
+      "groupId": "lFTpHNkSbSQSu66K3NAZS",
+      "source": {
+        "type": 5,
+        "channel": 9,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "type": 1,
+        "minSourceValue": 0.015748031496062992,
+        "maxSourceValue": 0.015748031496062992,
+        "minTargetValue": 0.02,
+        "maxTargetValue": 0.02,
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 1,
+        "outOfRangeBehavior": "min"
+      },
+      "target": {
+        "unit": "percent",
+        "fxAnchor": "this",
+        "controlElementType": "button",
+        "controlElementIndex": 16,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "XZrAA5258VBhaveEA-d_-",
+      "name": "Bank 3",
+      "groupId": "lFTpHNkSbSQSu66K3NAZS",
+      "source": {
+        "type": 5,
+        "channel": 9,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "type": 1,
+        "minSourceValue": 0.023622047244094488,
+        "maxSourceValue": 0.023622047244094488,
+        "minTargetValue": 0.03,
+        "maxTargetValue": 0.03,
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 1,
+        "outOfRangeBehavior": "min"
+      },
+      "target": {
+        "unit": "percent",
+        "fxAnchor": "this",
+        "controlElementType": "button",
+        "controlElementIndex": 16,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "gcIbEseSobeHI51bzzaPU",
+      "name": "Bank 4",
+      "groupId": "lFTpHNkSbSQSu66K3NAZS",
+      "source": {
+        "type": 5,
+        "channel": 9,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "type": 1,
+        "minSourceValue": 0.031496062992125984,
+        "maxSourceValue": 0.031496062992125984,
+        "minTargetValue": 0.04,
+        "maxTargetValue": 0.04,
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 1,
+        "outOfRangeBehavior": "min"
+      },
+      "target": {
+        "unit": "percent",
+        "fxAnchor": "this",
+        "controlElementType": "button",
+        "controlElementIndex": 16,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      },
+      "feedbackIsEnabled": false
+    },
+    {
+      "id": "ocvkWlmZRP0CEquQbi-Mh",
+      "name": "67",
+      "groupId": "9gpRgVAzbsAHGi-fKjCL_",
+      "source": {
+        "channel": 0,
+        "number": 3,
+        "isRegistered": false,
+        "is14Bit": false,
+        "oscArgIndex": 0
+      },
+      "mode": {
+        "maxStepSize": 0.05,
+        "minStepFactor": 1,
+        "maxStepFactor": 5
+      },
+      "target": {
+        "fxAnchor": "this",
+        "paramIndex": 3,
+        "controlElementIndex": 8,
+        "useProject": true,
+        "moveView": true,
+        "seekPlay": true,
+        "oscArgIndex": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+ACT 2 0 "71c5972a5d4ed84082ce248272336c3c" "Custom: Dem Adjust Grid Relative" 2015 40786 2014 40783
+ACT 2 0 "4d4b8381e9f45741a9d905ff55f7e480" "Custom: Dem Create Time Selection Relative (snap if enabled)" 2015 _RS700643bf3eebad76a7ace398d82ec1b064bb42ce 2014 _RS3f0e79fe3de380747de7bda8e5714968e85374d0
+ACT 2 0 "bb03e4152c436140aa4e132cae194c2b" "Custom: Dem Cycle Fade Shapes Relative" 2015 _RS221d1a826eb54320c530cce3c483f6fa60223201 2014 _RS4e54eae592444a86df3f83ce2dbbe81b4ed47f30
+ACT 2 0 "e39f5db4a5232d408a28235e9ddd6119" "Custom: Dem Cycle Track Input Relative" 2015 _RSd044a4ccab962b429f73682e895ccf5103f17a41 2014 _RS40d9c8937423f86cce64c6ecb418729239055abe
+ACT 2 0 "ad19438f1e0eb1498d8c26757eed8232" "Custom: Dem Fade Out Relative" 2015 _RS1e82579fe5bea274b00309a7406f0dc85e97e32c 2014 _RS30b84ca7fd63bd0846dfb60318cf9d7c7bd571e0
+ACT 2 0 "6f8b5e01547de44fbbd1994970d8b2a7" "Custom: Dem Fade in Relative" 2015 _RS9fc961b88a9da22658968db902bd22447fa47bdc 2014 _RS35252bd4bab2a343f9f0823e9d2e04bac080f0a6
+ACT 2 0 "3c3ffff29131dc40b0f22b173a246e55" "Custom: Dem Go to Marker Relative" 2015 40173 2014 40172
+ACT 2 0 "98c830bdf6adfe44bc29541d7ca3656e" "Custom: Dem Go to Project Relative" 2015 40861 2014 40862
+ACT 2 0 "40e3f80fa541d449a002666f5ced9814" "Custom: Dem Go to Region Relative" 2015 41802 2014 41801
+ACT 2 0 "d1f86bfc86949b4daf1e2a44c764e72e" "Custom: Dem Item Pan Relative" 2015 _RS5a82812da425d6dbf9e5941d20fa93810c348ce5 2014 _RS323d497f9d6c9fcd4ba4bb9f618819bd8cceda97
+ACT 2 0 "d240ac87014dcd4caf0643a0c522cb28" "Custom: Dem Item Pitch Relative" 2015 _RSfabcdf5e038c1b9b8118fa6c841dba9fb039db97 2014 _RS8ecf4f6e49825465cec166374990fc8fd9d4d216
+ACT 2 0 "9a496b8787820e43af32dc4e19c283ee" "Custom: Dem Item Trim Left Edge Relative" 2015 _RS296ac88289f5b3889c9a72e07f8e9524d9b494ca 2014 _RS53420ec519e8d695f6faf1db4982d2d85d66ab01
+ACT 2 0 "215a244f2faec34d94ba2001edbff815" "Custom: Dem Item Trim Right Edge Relative" 2015 _RS0aea82fc19d19579dde09ecaf369441aa1c36a7c 2014 _RScbc3d632a15b97383cf5f1dd0ab4f16cceee16a4
+ACT 2 0 "ddf00b16c59f3447af21f2ab1d2c4fed" "Custom: Dem Item Volume Relative" 2015 _RS1e65ce98d61a396cdba927e3e0ddd03f548c757b 2014 _RSf1aa06956626ad7bd8bbfabfddd69e403b47a43e
+ACT 2 0 "78cb5b20d4fc2e46b95791cce1f7e2eb" "Custom: Dem MIDI Note Length Relative" 2015 _RS5363cfdcc27714842130df211607dbd0b0823512 2014 _RS7a36f1b74b371ebc82c9cba3b823e661eff025a7
+ACT 2 0 "19e21101f8b56e4c931bd5c8467b1b27" "Custom: Dem MIDI Pitch Cursor Relative " 2015 _RSe913f17e841df96d780f8a5c0d6f42cc1ecab3a2 2014 _RS2ab00b23e24ebac8dad099e1c8ea6e7064ec3f54
+ACT 2 0 "207485fc9a5ed64f9856b61e39702677" "Custom: Dem MIDI Velocity Relative " 2015 _RS454290e6469d20d01bd89d2522aacc468ccb1600 2014 _RSa756a7cab4928c5952dc86273991228e04562121
+ACT 2 0 "e953d8679b23ee49adbae644c71e4afa" "Custom: Dem MIDI Vertical Zoom Relative" 2015 _RSa6c32bc895d2f88c1af5aa896295056a9529ed2e 2014 _RSfeef0a6dc393863324e8f53d004a6134e2f8cd15
+ACT 2 0 "a2d27b8b6a6dcf44b202edc362c87fd5" "Custom: Dem Media Enter Backspace Relative" 2015 _RS9c4abe0c3fbb1e96f0fd314e1a9daee479aed2d6 2014 _RS5142003efa5501fbf2644a71726757233260e18b
+ACT 2 0 "51d8a84349c56d499f60ee7bb3a54fea" "Custom: Dem Media Folder History Relative" 2015 _RS373a171a0a7581964d3da995351f16487cd4d907 2014 _RS58712141d51bc2fbf057b84d5576fc39777b1c9c
+ACT 2 0 "c20d559df844f741a0b7189070481219" "Custom: Dem Media Pitch Relative" 2015 _RSd4b5df70d37d6e3fbe4b65d4f68d589d84c46219 2014 _RS1ae0050c5f4f5861e71f35608b648f4cf68b683f
+ACT 2 0 "6758ab638c50814d9f61db5ec660f54f" "Custom: Dem Media Rewind Relative" 2015 _RSa8f9789ca13ca8b16fcc27395e8552769ae519c1 2014 _RS571f6e109be8f7c7f993a72c09b4be4b72793ccc
+ACT 2 0 "8fe90590d7b68b4aa40322c9cc63d6ce" "Custom: Dem Media Select Relative " 2015 _RS7fe6c4d2d6fc6ece23c574913d4e9e5a2b3dca04 2014 _RSc930ce91ea83d360045a3b212a25711168896b12
+ACT 2 0 "a0df2be49743c543b0be6c67203833de" "Custom: Dem Media Select Shortcut Relative" 2015 _RS60a1c03e736757f47775c6b4137ee9ee228776cb 2014 _RSadd26d69c62c7ca452afe6d4b9582b073ffe0190
+ACT 2 0 "ea1cd70d78538643a1120ab130e018ae" "Custom: Dem Media Volume Relative" 2015 _RS3f345d7e14f0dbd1a5229b60f12dc7dcb5a02378 2014 _RSa5ce358670398d5f5206e4df33fd6697a6db258c
+ACT 2 0 "95d18c5524088e4090b59a36d6732774" "Custom: Dem Media Zoom Relative" 2015 _RS3f0c0e858c21adf5911afbb144d5bbf8e361d441 2014 _RS6f1448f0ae1f31abc1f7264966087826dc71620f
+ACT 2 0 "754ffd6095c673449f2b9a9b8f74bad4" "Custom: Dem Move Cursor Relative (snap if enabled)" 2015 _RS259430f2c77dd560deeae8a9eba02a3dbf97ca05 2014 _RS57ce8616f405ec504037c9584de1f863e223ccaa
+ACT 2 0 "a834603707fb044c8bb196c98faad437" "Custom: Dem Move FX in Chain Relative" 2015 _RSf6a65b1517577798082b1d9c9415ed8be6e4825a 2014 _RSedd8ec7aa4a5c613a02862360f1f73accfe0e589
+ACT 2 0 "03cba3612b825f44b64fe1e49b99fb1d" "Custom: Dem Move Item Contents Relative" 2015 _RSbdf721f11ca60bdac3977b49bdad5da0a0debc2a 2014 _RSd7bbfecd4127b0577cbec6bccbd4991a43a4d302
+ACT 2 0 "f17295239163054bb6e753d705ba27ba" "Custom: Dem Move Take Relative" 2015 _S&M_MOVETAKE4 2014 _S&M_MOVETAKE3
+ACT 2 0 "7d5ba40c4f97b646a667a9ddef1540f9" "Custom: Dem Move Track Relative" 2015 _RSfe0993a43171b62e1efb12770c4fc7eb0d8fb6b2 2014 _RS6b38b559f94c46820d4f2befc2dc1dcdb18b4dac
+ACT 2 0 "6a7b539eef408a4090a2aa6a6685b6d1" "Custom: Dem Select FX in Chain Relative" 2015 _RS20dcb1d7b02f2ac474644fe82e0da731bb3be0bc 2014 _RS14fe9b7c76173846745f36546d0f49f4737fba24
+ACT 2 0 "87ab4b8ee483ab49ad74adc885ae8e37" "Custom: Dem Select Items Relative" 2015 _RS57259b8c5a0c5b3f4c04b5e98ec67cd96d32681a 2014 _RS50e813a3b46a14f005cf46f303e1164c3cd2102b
+ACT 2 0 "a246e0d019bc1d44abecd4747813a225" "Custom: Dem Select Take Relative" 2015 42349 2014 42350
+ACT 2 0 "0737dcad4dbff64e9a8aceb0ac8d1d65" "Custom: Dem Track Selection Relative" 2015 40287 2014 40288
+ACT 2 0 "ff24263b51f7ae45a74a79bc8ba7a532" "Custom: Dem Undo Redo Relative" 2015 40030 2014 40029
+SCR 260 0 RSf52c3fb665d243deb23575e84ea8a8f4910137ce "Custom: Dem Auto Trim Adjacent Items.lua" "Demian D/Dem Auto Trim Adjacent Items.lua"
+SCR 4 0 RSd5d6e0dde81fc0278660efb830001e234e0381f7 "Custom: Dem Copy Item to Edit Cursor.lua" "Demian D/Cycle Actions/Dem Copy Item to Edit Cursor.lua"
+SCR 260 0 RS3f0e79fe3de380747de7bda8e5714968e85374d0 "Custom: Dem Create Time Selection Left (snap if enabled).lua" "Demian D/Dem Create Time Selection Left (snap if enabled).lua"
+SCR 260 0 RS700643bf3eebad76a7ace398d82ec1b064bb42ce "Custom: Dem Create Time Selection Right (snap if enabled).lua" "Demian D/Dem Create Time Selection Right (snap if enabled).lua"
+SCR 4 0 RSef57951d49e28648e20fda9a9c6d34b63c9a9d77 "Custom: Dem Cycle Automation Mode.lua" "Demian D/Cycle Actions/Dem Cycle Automation Mode.lua"
+SCR 4 0 RS00c094deed18a2f2664ca63c5b4829179a1500c2 "Custom: Dem Cycle Cut and Paste Track.lua" "Demian D/Cycle Actions/Dem Cycle Cut and Paste Track.lua"
+SCR 4 0 RS4e54eae592444a86df3f83ce2dbbe81b4ed47f30 "Custom: Dem Cycle Fade In Shape No Undo Point.lua" "Demian D/Cycle Actions/Dem Cycle Fade In Shape No Undo Point.lua"
+SCR 4 0 RS221d1a826eb54320c530cce3c483f6fa60223201 "Custom: Dem Cycle Fade Out Shape No Undo Point.lua" "Demian D/Cycle Actions/Dem Cycle Fade Out Shape No Undo Point.lua"
+SCR 4 0 RSd044a4ccab962b429f73682e895ccf5103f17a41 "Custom: Dem Cycle Input Next.lua" "Demian D/Dem Cycle Input Next.lua"
+SCR 4 0 RS40d9c8937423f86cce64c6ecb418729239055abe "Custom: Dem Cycle Input Previous.lua" "Demian D/Dem Cycle Input Previous.lua"
+SCR 260 0 RS70424be5eae547d0e0110265180e7369ab9a4608 "Custom: Dem Cycle Track Record Mode Win.lua" "Demian D/Cycle Actions/Dem Cycle Track Record Mode Win.lua"
+SCR 4 0 RSbcffcc0f91105f6a5bd11829261a8161414f2d23 "Custom: Dem Delete Selected FX in chain.lua" "Demian D/Dem Delete Selected FX in chain.lua"
+SCR 4 0 RS85e1825eea6b699e370b0f3f91ed7ac037257d67 "Custom: Dem Export Item to RS5K instance.lua" "Demian D/Media Explorer from Main/Dem Export Item to RS5K instance.lua"
+SCR 4 0 RSe395078d746b59b55b805ad3620a1c5ebbe53de5 "Custom: Dem Export RS5K Source to Item.lua" "Demian D/Media Explorer from Main/Dem Export RS5K Source to Item.lua"
+SCR 260 0 RSf6a65b1517577798082b1d9c9415ed8be6e4825a "Custom: Dem FX Chain Move Down.lua" "Demian D/Dem FX Chain Move Down.lua"
+SCR 260 0 RSedd8ec7aa4a5c613a02862360f1f73accfe0e589 "Custom: Dem FX Chain Move Up.lua" "Demian D/Dem FX Chain Move Up.lua"
+SCR 260 0 RS20dcb1d7b02f2ac474644fe82e0da731bb3be0bc "Custom: Dem FX Chain Select Next.lua" "Demian D/Dem FX Chain Select Next.lua"
+SCR 260 0 RS14fe9b7c76173846745f36546d0f49f4737fba24 "Custom: Dem FX Chain Select Previous.lua" "Demian D/Dem FX Chain Select Previous.lua"
+SCR 260 0 RS23e169302d6fa47f5482f76b439451d5178a8da1 "Custom: Dem FX Toggle Float.lua" "Demian D/Cycle Actions/Dem FX Toggle Float.lua"
+SCR 260 0 RS35252bd4bab2a343f9f0823e9d2e04bac080f0a6 "Custom: Dem Fade In left.lua" "Demian D/Dem Fade In left.lua"
+SCR 260 0 RS9fc961b88a9da22658968db902bd22447fa47bdc "Custom: Dem Fade In right.lua" "Demian D/Dem Fade In right.lua"
+SCR 260 0 RS30b84ca7fd63bd0846dfb60318cf9d7c7bd571e0 "Custom: Dem Fade Out  left.lua" "Demian D/Dem Fade Out  left.lua"
+SCR 260 0 RS1e82579fe5bea274b00309a7406f0dc85e97e32c "Custom: Dem Fade Out  right.lua" "Demian D/Dem Fade Out  right.lua"
+SCR 4 0 RS80cf12efccab54af9a8cfc3680c044de428e2392 "Custom: Dem Go to Start of Loop, Region or Project.lua" "Demian D/Dem Go to Start of Loop, Region or Project.lua"
+SCR 4 0 RSdd34d4cbf80bc95eca9b2063a0a60059d9d2d2a2 "Custom: Dem Implode Items Across Tracks or Same Track.lua" "Demian D/Cycle Actions/Dem Implode Items Across Tracks or Same Track.lua"
+SCR 4 0 RS323d497f9d6c9fcd4ba4bb9f618819bd8cceda97 "Custom: Dem Item Pan to Left.lua" "Demian D/Dem Item Pan to Left.lua"
+SCR 4 0 RS5a82812da425d6dbf9e5941d20fa93810c348ce5 "Custom: Dem Item Pan to Right.lua" "Demian D/Dem Item Pan to Right.lua"
+SCR 4 0 RS8ecf4f6e49825465cec166374990fc8fd9d4d216 "Custom: Dem Item Pitch Down.lua" "Demian D/Dem Item Pitch Down.lua"
+SCR 4 0 RSfabcdf5e038c1b9b8118fa6c841dba9fb039db97 "Custom: Dem Item Pitch Up.lua" "Demian D/Dem Item Pitch Up.lua"
+SCR 4 0 RSf1aa06956626ad7bd8bbfabfddd69e403b47a43e "Custom: Dem Item Volume Down.lua" "Demian D/Dem Item Volume Down.lua"
+SCR 4 0 RS1e65ce98d61a396cdba927e3e0ddd03f548c757b "Custom: Dem Item Volume Up.lua" "Demian D/Dem Item Volume Up.lua"
+SCR 260 0 RSdef64ee9f3c04f676f5704b1aef4de8f2e10e834 "Custom: Dem Link all same FX parameters on selected tracks.lua" "Demian D/Dem Link all same FX parameters on selected tracks.lua"
+SCR 4 0 RS862bb6e15e88c2038fde71288817e03d84faaaa0 "Custom: Dem Looper Arm Track for Looping.lua" "Looper D/Dem Looper Arm Track for Looping.lua"
+SCR 260 0 RSc2622e43ebaa23e73c90595bfb8afb57ada848e6 "Custom: Dem Looper Mode auto lengthen items.lua" "Looper D/Dem Looper Mode auto lengthen items.lua"
+SCR 260 0 RS5363cfdcc27714842130df211607dbd0b0823512 "Custom: Dem MIDIEditor Notes Lengthen.lua" "Demian D/MIDI Editor/Dem MIDIEditor Notes Lengthen.lua"
+SCR 260 0 RS7a36f1b74b371ebc82c9cba3b823e661eff025a7 "Custom: Dem MIDIEditor Notes Shorten.lua" "Demian D/MIDI Editor/Dem MIDIEditor Notes Shorten.lua"
+SCR 4 0 RSe913f17e841df96d780f8a5c0d6f42cc1ecab3a2 "Custom: Dem MIDIEditor Select Note Row Down.lua" "Demian D/MIDI Editor/Dem MIDIEditor Select Note Row Down.lua"
+SCR 4 0 RS2ab00b23e24ebac8dad099e1c8ea6e7064ec3f54 "Custom: Dem MIDIEditor Select Note Row Up.lua" "Demian D/MIDI Editor/Dem MIDIEditor Select Note Row Up.lua"
+SCR 4 0 RSa756a7cab4928c5952dc86273991228e04562121 "Custom: Dem MIDIEditor Velocity Down.lua" "Demian D/MIDI Editor/Dem MIDIEditor Velocity Down.lua"
+SCR 4 0 RS454290e6469d20d01bd89d2522aacc468ccb1600 "Custom: Dem MIDIEditor Velocity Up.lua" "Demian D/MIDI Editor/Dem MIDIEditor Velocity Up.lua"
+SCR 260 0 RSa6c32bc895d2f88c1af5aa896295056a9529ed2e "Custom: Dem MIDIEditor Zoom Vertically In.lua" "Demian D/MIDI Editor/Dem MIDIEditor Zoom Vertically In.lua"
+SCR 260 0 RSfeef0a6dc393863324e8f53d004a6134e2f8cd15 "Custom: Dem MIDIEditor Zoom Vertically Out.lua" "Demian D/MIDI Editor/Dem MIDIEditor Zoom Vertically Out.lua"
+SCR 4 0 RS6cc154e017dd7fa4a16fbfe0d7592aab5dc9d399 "Custom: Dem Media Copy.lua" "Demian D/Media Explorer from Main/Dem Media Copy.lua"
+SCR 4 0 RS8e97016627f24f859ec1a0ec5270bac85dcf2dce "Custom: Dem Media Delete Recycle.lua" "Demian D/Media Explorer from Main/Dem Media Delete Recycle.lua"
+SCR 4 0 RS9c4abe0c3fbb1e96f0fd314e1a9daee479aed2d6 "Custom: Dem Media Enter.lua" "Demian D/Media Explorer from Main/Dem Media Enter.lua"
+SCR 4 0 RSa8f9789ca13ca8b16fcc27395e8552769ae519c1 "Custom: Dem Media Forward.lua" "Demian D/Media Explorer from Main/Dem Media Forward.lua"
+SCR 4 0 RSf5928d2aa21ce4784c37f7b7183e02ea1468c54b "Custom: Dem Media New Folder.lua" "Demian D/Media Explorer from Main/Dem Media New Folder.lua"
+SCR 4 0 RS373a171a0a7581964d3da995351f16487cd4d907 "Custom: Dem Media Next Folder.lua" "Demian D/Media Explorer from Main/Dem Media Next Folder.lua"
+SCR 4 0 RS7fe6c4d2d6fc6ece23c574913d4e9e5a2b3dca04 "Custom: Dem Media Next.lua" "Demian D/Media Explorer from Main/Dem Media Next.lua"
+SCR 4 0 RS5142003efa5501fbf2644a71726757233260e18b "Custom: Dem Media Parent Folder.lua" "Demian D/Media Explorer from Main/Dem Media Parent Folder.lua"
+SCR 4 0 RS1979fd4f720da0fa4530e16d03193b8d9be6ed8b "Custom: Dem Media Paste.lua" "Demian D/Media Explorer from Main/Dem Media Paste.lua"
+SCR 260 0 RS1ae0050c5f4f5861e71f35608b648f4cf68b683f "Custom: Dem Media Pitch Down.lua" "Demian D/Media Explorer from Main/Dem Media Pitch Down.lua"
+SCR 260 0 RSd4b5df70d37d6e3fbe4b65d4f68d589d84c46219 "Custom: Dem Media Pitch Up.lua" "Demian D/Media Explorer from Main/Dem Media Pitch Up.lua"
+SCR 4 0 RS57f296cb40b2e0ca3723de739f6381766c980f91 "Custom: Dem Media Play.lua" "Demian D/Media Explorer from Main/Dem Media Play.lua"
+SCR 4 0 RS58712141d51bc2fbf057b84d5576fc39777b1c9c "Custom: Dem Media Previous Folder.lua" "Demian D/Media Explorer from Main/Dem Media Previous Folder.lua"
+SCR 4 0 RSc930ce91ea83d360045a3b212a25711168896b12 "Custom: Dem Media Previous.lua" "Demian D/Media Explorer from Main/Dem Media Previous.lua"
+SCR 4 0 RS54231b1a2ce0067c887348924b935bae20e609e2 "Custom: Dem Media Rename.lua" "Demian D/Media Explorer from Main/Dem Media Rename.lua"
+SCR 260 0 RScb8f655a12bb3f6436bba1ded5c90b484556522a "Custom: Dem Media Render File.lua" "Demian D/Media Explorer from Main/Dem Media Render File.lua"
+SCR 4 0 RS571f6e109be8f7c7f993a72c09b4be4b72793ccc "Custom: Dem Media Rewind.lua" "Demian D/Media Explorer from Main/Dem Media Rewind.lua"
+SCR 4 0 RSe2afd6d8db1f9f39abd18244ee25c58ac6f44c99 "Custom: Dem Media Search.lua" "Demian D/Media Explorer from Main/Dem Media Search.lua"
+SCR 4 0 RSadd26d69c62c7ca452afe6d4b9582b073ffe0190 "Custom: Dem Media Shortcut Previous.lua" "Demian D/Media Explorer from Main/Dem Media Shortcut Previous.lua"
+SCR 4 0 RS60a1c03e736757f47775c6b4137ee9ee228776cb "Custom: Dem Media Shortcut next.lua" "Demian D/Media Explorer from Main/Dem Media Shortcut next.lua"
+SCR 4 0 RS3b0c96b9e52d21dedc536a3d9377a1889d7266e5 "Custom: Dem Media Stop.lua" "Demian D/Media Explorer from Main/Dem Media Stop.lua"
+SCR 4 0 RSc556d383698febd061cc3206a40b82a26bba6775 "Custom: Dem Media Toggle Auto Play.lua" "Demian D/Media Explorer from Main/Dem Media Toggle Auto Play.lua"
+SCR 4 0 RS5bd33ca612a8b2456183d985642ee8119c26a1aa "Custom: Dem Media Toggle Repeat.lua" "Demian D/Media Explorer from Main/Dem Media Toggle Repeat.lua"
+SCR 4 0 RS273425d418c3780b533812fcaad41f6f88a05df5 "Custom: Dem Media Toggle Start on Bar.lua" "Demian D/Media Explorer from Main/Dem Media Toggle Start on Bar.lua"
+SCR 4 0 RS444aa6c26cd54d7ed49c4b149ab19050b6d15c3e "Custom: Dem Media Toggle Tempo Match.lua" "Demian D/Media Explorer from Main/Dem Media Toggle Tempo Match.lua"
+SCR 4 0 RSa5ce358670398d5f5206e4df33fd6697a6db258c "Custom: Dem Media Volume Down.lua" "Demian D/Media Explorer from Main/Dem Media Volume Down.lua"
+SCR 4 0 RS3f345d7e14f0dbd1a5229b60f12dc7dcb5a02378 "Custom: Dem Media Volume Up.lua" "Demian D/Media Explorer from Main/Dem Media Volume Up.lua"
+SCR 4 0 RS3f0c0e858c21adf5911afbb144d5bbf8e361d441 "Custom: Dem Media Zoom In.lua" "Demian D/Media Explorer from Main/Dem Media Zoom In.lua"
+SCR 4 0 RS6f1448f0ae1f31abc1f7264966087826dc71620f "Custom: Dem Media Zoom Out.lua" "Demian D/Media Explorer from Main/Dem Media Zoom Out.lua"
+SCR 260 0 RS57ce8616f405ec504037c9584de1f863e223ccaa "Custom: Dem Move Edit Cursor Left (snap if enabled).lua" "Demian D/Dem Move Edit Cursor Left (snap if enabled).lua"
+SCR 260 0 RS259430f2c77dd560deeae8a9eba02a3dbf97ca05 "Custom: Dem Move Edit Cursor Right (snap if enabled).lua" "Demian D/Dem Move Edit Cursor Right (snap if enabled).lua"
+SCR 260 0 RS230f4cce28749f46a1baf23a20e28c93ccc155ea "Custom: Dem Move Edit Cursor to Nearest Item Edge in Track.lua" "Demian D/Dem Move Edit Cursor to Nearest Item Edge in Track.lua"
+SCR 260 0 RSd7bbfecd4127b0577cbec6bccbd4991a43a4d302 "Custom: Dem Move Item Contents Left (snap if enabled).lua" "Demian D/Dem Move Item Contents Left (snap if enabled).lua"
+SCR 260 0 RSbdf721f11ca60bdac3977b49bdad5da0a0debc2a "Custom: Dem Move Item Contents Right (snap if enabled).lua" "Demian D/Dem Move Item Contents Right (snap if enabled).lua"
+SCR 4 0 RSbd1d490c2f5e8b3100ab0d02e8a9f82f07b6e027 "Custom: Dem Move Item to Edit Cursor.lua" "Demian D/Cycle Actions/Dem Move Item to Edit Cursor.lua"
+SCR 260 0 RS1969f8b63336a6b103fc08b5b073d660cf071959 "Custom: Dem Play Stop Selected Items Once.lua" "Demian D/Dem Play Stop Selected Items Once.lua"
+SCR 260 0 RS834bf4857f17f9d4860739dcdb230adc39fde576 "Custom: Dem Record Looper D with Overdub.lua" "Looper D/Dem Record Looper D with Overdub.lua"
+SCR 4 0 RS5fbefe214f756ce4e165feb96d0d31f09ea1d101 "Custom: Dem Replace Item Source with Selected Media File.lua" "Demian D/Media Explorer from Main/Dem Replace Item Source with Selected Media File.lua"
+SCR 4 0 RS930a9f8fef8a3e07895d8987b8dcb75cb934569a "Custom: Dem Replace RS5K Source with Selected File Media Explorer.lua" "Demian D/Media Explorer from Main/Dem Replace RS5K Source with Selected File Media Explorer.lua"
+SCR 4 0 RS283e19672319fce674aed4530c6e4af37037886a "Custom: Dem Replace RS5K Source with Selected Item.lua" "Demian D/Media Explorer from Main/Dem Replace RS5K Source with Selected Item.lua"
+SCR 4 0 RS4c4f52cf4524c1a8380dd606aa611c9d9cda2419 "Custom: Dem Select Items if time selection else unselect all.lua" "Demian D/Dem Select Items if time selection else unselect all.lua"
+SCR 4 0 RS57259b8c5a0c5b3f4c04b5e98ec67cd96d32681a "Custom: Dem Select Next Item Across Tracks.lua" "Demian D/Dem Select Next Item Across Tracks.lua"
+SCR 4 0 RS50e813a3b46a14f005cf46f303e1164c3cd2102b "Custom: Dem Select Previous Item Across Tracks.lua" "Demian D/Dem Select Previous Item Across Tracks.lua"
+SCR 4 0 RSc758891566bae3adc9c68f2a357009bcfb1a32cb "Custom: Dem Select item under edit cursor on selected tracks.lua" "Demian D/Dem Select item under edit cursor on selected tracks.lua"
+SCR 4 0 RS004ff73f93409f80565c400a203bb5992e16f223 "Custom: Dem SelectTake 1.lua" "Looper D/Dem SelectTake 1.lua"
+SCR 4 0 RS0288d99dd2de3067c5f7dd5341156bf7243b161d "Custom: Dem SelectTake 2.lua" "Looper D/Dem SelectTake 2.lua"
+SCR 4 0 RSf044ca22d839bf87d3f5d28713682a77af33aa75 "Custom: Dem SelectTake 3.lua" "Looper D/Dem SelectTake 3.lua"
+SCR 4 0 RS313cced53d0144fba785868e03913d73f63203cd "Custom: Dem SelectTake 4.lua" "Looper D/Dem SelectTake 4.lua"
+SCR 4 0 RSc12659cfde962bed73c78141bdf7ded1100032d8 "Custom: Dem SelectTake 5.lua" "Looper D/Dem SelectTake 5.lua"
+SCR 4 0 RS05ddd85663e8b2b13351082954683149d534760c "Custom: Dem SelectTake 6.lua" "Looper D/Dem SelectTake 6.lua"
+SCR 4 0 RS45e915acc2c33ce2f2af7de152deeb4bb5870b24 "Custom: Dem SelectTake 7.lua" "Looper D/Dem SelectTake 7.lua"
+SCR 4 0 RSf4b3f74855a92c7aee7ffcb58a3a035ac2cbeffc "Custom: Dem SelectTake 8.lua" "Looper D/Dem SelectTake 8.lua"
+SCR 4 0 RSdfcba24d9f6ee0093a16abcac91899330666f311 "Custom: Dem SelectTake 9.lua" "Looper D/Dem SelectTake 9.lua"
+SCR 4 0 RSab1b44491723916783408cc16da6b72da0ce3ee3 "Custom: Dem SelectTake 10.lua" "Looper D/Dem SelectTake 10.lua"
+SCR 4 0 RS6eb0e7441d97d47227a6ba00c02aaa4649849313 "Custom: Dem SelectTake 11.lua" "Looper D/Dem SelectTake 11.lua"
+SCR 4 0 RSdadc8d8aecffa5d260baaac01bc4148054c97267 "Custom: Dem SelectTake 12.lua" "Looper D/Dem SelectTake 12.lua"
+SCR 4 0 RSc17c08a84764a413c71c84a405081ba637901a07 "Custom: Dem SelectTake 13.lua" "Looper D/Dem SelectTake 13.lua"
+SCR 4 0 RSd174ab49a08719e748144f3f7bd184a7604f1107 "Custom: Dem SelectTake 14.lua" "Looper D/Dem SelectTake 14.lua"
+SCR 4 0 RS81ef7320ae078d174d16ed1334881e6557254e1b "Custom: Dem SelectTake 15.lua" "Looper D/Dem SelectTake 15.lua"
+SCR 4 0 RScf8b4652372b2bb039ffdf5f037895f34a53f99a "Custom: Dem SelectTake 16.lua" "Looper D/Dem SelectTake 16.lua"
+SCR 4 0 RS92c0ae59d2ff074d81de0a75c802ba7c105edfd9 "Custom: Dem SelectTake Mute.lua" "Looper D/Dem SelectTake Mute.lua"
+SCR 4 0 RSfcd37bae098987061c2ebf5a0c263d3a9b20ba85 "Custom: Dem Show Big Clock.lua" "Demian D/Various DScripts/Dem Show Big Clock.lua"
+SCR 4 0 RS543a3f497407c814c1445a80e869ee478185c780 "Custom: Dem Show Crossfade Editor.lua" "Demian D/Various DScripts/Dem Show Crossfade Editor.lua"
+SCR 4 0 RSe506922d31843abd092d765267f20ca7d8087792 "Custom: Dem Show Item Properties.lua" "Demian D/Various DScripts/Dem Show Item Properties.lua"
+SCR 4 0 RS8d0aecf34a29aad157e654a058038bd50399f195 "Custom: Dem Show Mixer.lua" "Demian D/Various DScripts/Dem Show Mixer.lua"
+SCR 4 0 RS70ffee4712b66c0edc4a847777213e68d20ecea5 "Custom: Dem Show Navigator.lua" "Demian D/Various DScripts/Dem Show Navigator.lua"
+SCR 4 0 RS03bc45d4940f11b18f98004ee6d2abe99b8bab76 "Custom: Dem Show Project Bay.lua" "Demian D/Various DScripts/Dem Show Project Bay.lua"
+SCR 4 0 RS1207f51859078027e27474910cd81aef438ff79d "Custom: Dem Show Track Manager.lua" "Demian D/Various DScripts/Dem Show Track Manager.lua"
+SCR 4 0 RS6c80eaa8a9a5bdeb85699d81fd67fba0f32f6948 "Custom: Dem Startup Action.lua" "Demian D/Dem Startup Action.lua"
+SCR 260 0 RS7d2b4955a07e01f953d94395e78f6ba81baa1647 "Custom: Dem Testing.lua" "Demian D/Dem Testing.lua"
+SCR 260 0 RS80cd949e4f3a75fc673bbaabb8d3693f75905797 "Custom: Dem Toggle All Input Quantize Grid.lua" "Demian D/Various DScripts/Dem Toggle All Input Quantize Grid.lua"
+SCR 4 0 RS4097425e0b76af9a3278824b7974040bd265560f "Custom: Dem Toggle Track Freeze.lua" "Demian D/Cycle Actions/Dem Toggle Track Freeze.lua"
+SCR 4 0 RS320ef579e5f3b7f886b720f3ee2379c662ef4cd7 "Custom: Dem Toolbar Mode MIDI.lua" "Demian D/Cycle Actions/Dem Toolbar Mode MIDI.lua"
+SCR 4 0 RS3acb5269ad11e3bf427738e8ad31d4c85279cfc5 "Custom: Dem Toolbar Mode Media Explorer.lua" "Demian D/Cycle Actions/Dem Toolbar Mode Media Explorer.lua"
+SCR 4 0 RS876d337671a4f27fb1693f6a2de5d2815eb2367f "Custom: Dem Toolbar Mode Toolbar FX Tools.lua" "Demian D/Cycle Actions/Dem Toolbar Mode Toolbar FX Tools.lua"
+SCR 4 0 RSaa126dee856005686ed9d4ae2bdbface4b90e891 "Custom: Dem Toolbar Mode Toolbar Item.lua" "Demian D/Cycle Actions/Dem Toolbar Mode Toolbar Item.lua"
+SCR 4 0 RS22313a2deb25e94a424b21f169af7f5154424612 "Custom: Dem Toolbar Mode Toolbar Main.lua" "Demian D/Cycle Actions/Dem Toolbar Mode Toolbar Main.lua"
+SCR 4 0 RS4bcf2539f5648d038427fed8dde75018b01235fb "Custom: Dem Toolbar Mode Toolbar Project.lua" "Demian D/Cycle Actions/Dem Toolbar Mode Toolbar Project.lua"
+SCR 4 0 RSd4509349b67e26dd3cee65b35c3ece4065364dc0 "Custom: Dem Toolbar Mode Toolbar Tools.lua" "Demian D/Cycle Actions/Dem Toolbar Mode Toolbar Tools.lua"
+SCR 4 0 RS5a5909951a2789ec0aab08e73541b8233c018af1 "Custom: Dem Toolbar Mode Toolbar Track.lua" "Demian D/Cycle Actions/Dem Toolbar Mode Toolbar Track.lua"
+SCR 260 0 RS53420ec519e8d695f6faf1db4982d2d85d66ab01 "Custom: Dem Trim Item Left Edge Left (snap if enabled).lua" "Demian D/Dem Trim Item Left Edge Left (snap if enabled).lua"
+SCR 260 0 RS296ac88289f5b3889c9a72e07f8e9524d9b494ca "Custom: Dem Trim Item Left Edge Right (snap if enabled).lua" "Demian D/Dem Trim Item Left Edge Right (snap if enabled).lua"
+SCR 4 0 RScbc3d632a15b97383cf5f1dd0ab4f16cceee16a4 "Custom: Dem Trim Item Right Edge Left (snap if enabled).lua" "Demian D/Dem Trim Item Right Edge Left (snap if enabled).lua"
+SCR 4 0 RS0aea82fc19d19579dde09ecaf369441aa1c36a7c "Custom: Dem Trim Item Right Edge Right (snap if enabled).lua" "Demian D/Dem Trim Item Right Edge Right (snap if enabled).lua"
+SCR 260 0 RS1f6b1c926b697e606ca40648c3825acc7013cc54 "Custom: Dem feedthecat insert media file into RS5K instance allow overlap.lua" "Demian D/Media Explorer from Main/Dem feedthecat insert media file into RS5K instance allow overlap.lua"
+SCR 4 32060 RS7d3c_b11e4270ff97919a6a6fee02a4d067240ba731f5 "Custom: Dem MIDIEditor Copy to Edit Cursor.lua" "Demian D/MIDI Editor/Dem MIDIEditor Copy to Edit Cursor.lua"
+SCR 4 32060 RS7d3c_dbe0892a566e535b2f650572f927486f880e3bfe "Custom: Dem MIDIEditor Cycle Drum and Piano Mode.lua" "Demian D/MIDI Editor/Dem MIDIEditor Cycle Drum and Piano Mode.lua"
+SCR 4 32060 RS7d3c_9905afdbbd029a51f4a093aaa9d35f0ce4d398f3 "Custom: Dem MIDIEditor Cycle Show CC Lanes.lua" "Demian D/MIDI Editor/Dem MIDIEditor Cycle Show CC Lanes.lua"
+SCR 4 32060 RS7d3c_a7e974184e6895dde2ca4de347efd572d69de8a4 "Custom: Dem MIDIEditor Move to Edit Cursor.lua" "Demian D/MIDI Editor/Dem MIDIEditor Move to Edit Cursor.lua"
+SCR 4 32060 RS7d3c_0f471319f9db301b107a69db06279bef2346d8ef "Custom: Dem feedthecat Toggle Link Input Quantize and Grid.lua" "Demian D/Various DScripts/Dem feedthecat Toggle Link Input Quantize and Grid.lua"
