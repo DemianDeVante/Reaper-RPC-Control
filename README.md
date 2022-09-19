@@ -8,4 +8,6 @@ This is a collection of scripts and custom actions made in order to make MIDI co
   A script collection aimed to make live looping easier, taking advantage of the native takes system.
 * **Demian D Scripts:**  
   Various scripts made mainly for use with MIDI controllers
+  
+## Requirements and installation WIP
 
