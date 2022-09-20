@@ -54,7 +54,17 @@ To open the Reaper Resource Path go to (Options >> Show Reaper resource path in 
 
 ![ReaLearn Assign Pads Knobs](https://user-images.githubusercontent.com/113860974/191152778-e661e1f2-5b9b-407e-8acb-f5b0068a5d68.jpg)
 
-* In (Controller compartment >> Mapping group >> Modifier) assign the button you want to use as a modifier for changing Modes, alternatively you can assign Program Change messages to do this function.
+* In (Controller compartment >> Mapping group >> Modifier) assign the button you want to use as a modifier for changing Modes, alternatively you can assign Program Change messages to do this function.  
+
+The following settings are recommended:
+* In the MIDI Editor right click and set (View >> Piano Roll Timebase > Project Synced)
+* In the Media Explorer right click and set (Show >> Vertical layout > Enabled)
+* In Preferences:
+* (Editing behavior >> Link loop points to time selection > Enabled)
+* (Editing behavior >> Vertical zoom center > Last selected track)
+* (Editing behavior >> Horizontal zoom center > Edit or play cursor (default))
+* (Editing behavior >> MIDI Editor >> One MIDI Editor per > project)
+* (Audio >> Playback >> Scrub/jog when moving edit cursor via action or control surface > Disabled)
 
 
 
