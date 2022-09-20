@@ -1,4 +1,4 @@
-# RPC Control and Scripts for Reaper DAW
+# RPC Control and Scripts for Reaper DAW  (Readme WIP)
 This is a collection of scripts and custom actions made in order to make MIDI controllers more useful with Reaper.  
 
 ## Features
