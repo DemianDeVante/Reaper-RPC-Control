@@ -39,6 +39,8 @@ To open the Reaper Resource Path go to (Options >> Show Reaper resource path in 
 
 ### RPC Control
 * Copy the Data folder into Reaper Resource Path.
+* Go to (Extensions >> Startup actions >> Set global startup action...) and paste the ID of the script "Dem Startup Action.lua" (This script just makes sure Reaper Starts in Fullscreen and Loads Screenset 1. The ID is: _RS6c80eaa8a9a5bdeb85699d81fd67fba0f32f6948).  
+* Copy the [sset0] configuration inside "reaper-screensets.ini", alternatively if you don't mind losing your screensets copy the whole file to Reaper Resource Path.
 * Import "RPC Control Toolbars.ReaperMenuSet" through: (Options >> Customize menus/toolbars... >> Import/Export >> Import).
 
 ![Import Toolbars](https://user-images.githubusercontent.com/113860974/191152689-1eebc6ba-a137-46e6-b8e5-56185eadf565.jpg)
@@ -53,8 +55,7 @@ To open the Reaper Resource Path go to (Options >> Show Reaper resource path in 
 ![ReaLearn Assign Pads Knobs](https://user-images.githubusercontent.com/113860974/191152778-e661e1f2-5b9b-407e-8acb-f5b0068a5d68.jpg)
 
 * In (Controller compartment >> Mapping group >> Modifier) assign the button you want to use as a modifier for changing Modes, alternatively you can assign Program Change messages to do this function.
-* Go to (Extensions >> Startup actions >> Set global startup action...) and paste the ID of the script "Dem Startup Action.lua" (This script just makes sure Reaper Starts in Fullscreen and Loads Screenset 1. The ID is: _RS6c80eaa8a9a5bdeb85699d81fd67fba0f32f6948).  
-*
+
 
 
 
