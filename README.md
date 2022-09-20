@@ -26,7 +26,9 @@ This is a collection of scripts and custom actions made in order to make MIDI co
 To open the Reaper Resource Path go to (Options >> Show Reaper resource path in explorer/finder...).  
 
 ![Reaper Resource Path](https://user-images.githubusercontent.com/113860974/191146302-e6bc7f96-15f2-4317-b8bf-177025e5368c.jpg)
-<a href="url"><img src="https://user-images.githubusercontent.com/113860974/191146302-e6bc7f96-15f2-4317-b8bf-177025e5368c.jpg" align="center" height="100" width="100" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/113860974/191146302-e6bc7f96-15f2-4317-b8bf-177025e5368c.jpg" align="center" height="100" ></a>
+![Reaper Resource Path]([https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/113860974/191146302-e6bc7f96-15f2-4317-b8bf-177025e5368c.jpg) | width=334)
+
 
 ### Demian D Scripts & Looper D
 * Copy the Scripts folder into Reaper Resource Path.
