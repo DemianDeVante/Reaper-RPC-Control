@@ -28,11 +28,12 @@ To open the Reaper Resource Path go to Options >> Show Reaper resource path in e
 
 ### Demian D Scripts & Looper D
 * Copy the Scripts folder into Reaper Resource Path
-* Import the keymap: Action List >> Key map... >> Import shortcut keymap  
+* Import "Demian D Script Pack.ReaperKeyMap" through: Action List >> Key map... >> Import shortcut keymap  
 
 ![Import Keymap](https://user-images.githubusercontent.com/113860974/191146345-0d6454f5-3a74-41f0-927d-9cdbc70c0bfb.jpg)
 
 ### RPC Control
+
 
 
 
