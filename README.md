@@ -8,6 +8,35 @@ This is a collection of scripts and custom actions made in order to make MIDI co
   A script collection aimed to make live looping easier, taking advantage of the native takes system.
 * **Demian D Scripts:**  
   Various scripts made mainly for use with MIDI controllers.
+
+## Use & Overview
+The RPC Control template consists of 4 Modes (Toolbar, Mixer, Looper, Disabled) that can be switched with a modifier button (mod + pad 1-4) or program change messages (pc 1-4).  
+Each Mode has different modifiers to perform different functions, these are short press, long press and long long press.  
+A long long press with any pad (around 1700ms) will reset all modifiers in the Mode.  
+### Toolbar Mode
+Has 8 Toolbabars you can switch with a long press, each with 16 actions you can trigger with Pads (short press) and 8 functions you can perform with Knobs.  
+A descriptive label on the functions assigned to the knobs is displayed at the rightmost side of the toolbar.  
+
+* **Main Toolbar**
+* **Item Edit Toolbar**
+* **Item Tools Toolbar**
+* **Track Tools Toolbar**
+* **MIDI Editor Toolbar**
+* **Media Explorer Toolbar**
+* **FX Tools Toolbar*
+* **Project Settings Toolbar** 
+
+### Mixer Mode
+Only shortpress needed.  
+The first 8 Pads will change the behavior of the knobs to control the volume in sets of 8 tracks, up to 64 tracks.  
+The next 8 Pads will change the behavior of the knobs to control the pan in sets of 8 tracks, up to 64 tracks.  
+
+### Looper Mode
+A short press will change the take from 1 to 16 depending on the Pad pressed.  
+A long press with any pad will mute the take.  
+
+### Disabled Mode
+In this Mode only the modifier button and program change messages will work, all the other Pads and Knobs are free to use with any Learn system (i.e. Reaper Action List or Parameter Learn)
   
 ## Requirements
 ### Demian D Scripts & Looper D
@@ -54,17 +83,19 @@ To open the Reaper Resource Path go to (Options >> Show Reaper resource path in 
 
 <a href="url"><img src="https://user-images.githubusercontent.com/113860974/191152778-e661e1f2-5b9b-407e-8acb-f5b0068a5d68.jpg" width="550" ></a>
 
-* In (Controller compartment >> Mapping group >> Modifier) assign the button you want to use as a modifier for changing Banks, alternatively you can assign Program Change messages to do this function.  
+* In (Controller compartment >> Mapping group >> Modifier) assign the button you want to use as a modifier for changing Modes, alternatively you can assign Program Change messages to do this function.  
+
+* Because of Reaper Focuses the Arrange Toolbar on Startup you should manually click the Toolbar you want to focus.
 
 The following settings are recommended:
-* In the MIDI Editor right click and set (View >> Piano Roll Timebase > Project Synced)
-* In the Media Explorer right click and set (Show >> Vertical layout > Enabled)
+* In the MIDI Editor right click and set (View >> Piano Roll Timebase > Project Synced).
+* In the Media Explorer right click and set (Show >> Vertical layout > Enabled).
 * In Preferences:
-* (Editing behavior >> Link loop points to time selection > Enabled)
-* (Editing behavior >> Vertical zoom center > Last selected track)
-* (Editing behavior >> Horizontal zoom center > Edit or play cursor (default))
-* (Editing behavior >> MIDI Editor >> One MIDI Editor per > project)
-* (Audio >> Playback >> Scrub/jog when moving edit cursor via action or control surface > Disabled)
+* (Editing behavior >> Link loop points to time selection > Enabled).
+* (Editing behavior >> Vertical zoom center > Last selected track).
+* (Editing behavior >> Horizontal zoom center > Edit or play cursor (default)).
+* (Editing behavior >> MIDI Editor >> One MIDI Editor per > project).
+* (Audio >> Playback >> Scrub/jog when moving edit cursor via action or control surface > Disabled).
 
 
 
