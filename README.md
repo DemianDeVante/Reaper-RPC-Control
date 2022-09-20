@@ -25,14 +25,14 @@ This is a collection of scripts and custom actions made in order to make MIDI co
 ## Installation
 To open the Reaper Resource Path go to (Options >> Show Reaper resource path in explorer/finder...).  
 
-<a href="url"><img src="https://user-images.githubusercontent.com/113860974/191146302-e6bc7f96-15f2-4317-b8bf-177025e5368c.jpg" align="center" width="400" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/113860974/191146302-e6bc7f96-15f2-4317-b8bf-177025e5368c.jpg" align="center" width="334" ></a>
 
 
 ### Demian D Scripts & Looper D
 * Copy the Scripts folder into Reaper Resource Path.
 * Import "Demian D Script Pack.ReaperKeyMap" through: (Action List >> Key map... >> Import shortcut keymap).  
 
-![Import Keymap](https://user-images.githubusercontent.com/113860974/191146345-0d6454f5-3a74-41f0-927d-9cdbc70c0bfb.jpg)
+<a href="url"><img src="[https://user-images.githubusercontent.com/113860974/191146302-e6bc7f96-15f2-4317-b8bf-177025e5368c.jpg](https://user-images.githubusercontent.com/113860974/191146345-0d6454f5-3a74-41f0-927d-9cdbc70c0bfb.jpg)" align="center" width="415" ></a>
 
 * In (Preferences >> Audio >> Loop Recording)  make sure "At each loop (creates new files, good for recording multiple audio layers on the fly etc)" is disabled.
 
