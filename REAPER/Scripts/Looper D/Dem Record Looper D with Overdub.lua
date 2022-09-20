@@ -30,7 +30,7 @@ for _, mode in pairs(rec_mode_table) do
   end
 end
 local _,_,sec_id,cmd_id = reaper.get_action_context()
-local starttime, endtime = reaper.GetSet_LoopTimeRange2(0, false, false, 0, 0, false)
+local starttime, endtime = reaper.GetSet_LoopTimeRange2(0, false, true, 0, 0, false)
 
 ---------- Functions ------------------------------------------------------------
 function isvalintable(table, value) -- returns boolean
@@ -76,7 +76,7 @@ function trim_loopend(xtrack)
 end
 
 function record_overdub()
-  local starttime, endtime = reaper.GetSet_LoopTimeRange2(0, false, false, 0, 0, false)
+  local starttime, endtime = reaper.GetSet_LoopTimeRange2(0, false, true, 0, 0, false)
   if starttime ~= endtime then  
     local track_count = reaper.CountTracks( 0 )
     for ntrack = 0 , track_count -1 do
@@ -142,7 +142,7 @@ function record_overdub()
 end
 
 function record_normal()
-  local starttime, endtime = reaper.GetSet_LoopTimeRange2(0, false, false, 0, 0, false)
+  local starttime, endtime = reaper.GetSet_LoopTimeRange2(0, false, true, 0, 0, false)
   if starttime ~= endtime then
     local track_count = reaper.CountTracks( 0 )
     for ntrack = 0 , track_count -1 do

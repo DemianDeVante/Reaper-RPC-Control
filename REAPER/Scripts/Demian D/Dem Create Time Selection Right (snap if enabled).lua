@@ -91,13 +91,13 @@ loopstart, loopend = reaper.GetSet_LoopTimeRange2(0, false, false, 0, 0, false)
 grid = trim_right_destination(startcursorpos)
   if loopstart ~= startcursorpos and loopend ~= startcursorpos then
     reaper.SetEditCurPos(grid,1,0)
-    reaper.GetSet_LoopTimeRange( 1, 1, startcursorpos, grid, 0 ) -- set start on edit cursor and end on next visible grid
+    reaper.GetSet_LoopTimeRange( 1, 0, startcursorpos, grid, 0 ) -- set start on edit cursor and end on next visible grid
   elseif loopstart == startcursorpos then
     reaper.SetEditCurPos(grid,1,0)
-    reaper.GetSet_LoopTimeRange( 1, 1, grid, loopend, 0 ) -- set start on edit cursor and end on next visible grid
+    reaper.GetSet_LoopTimeRange( 1, 0, grid, loopend, 0 ) -- set start on edit cursor and end on next visible grid
   elseif loopend == startcursorpos then
     reaper.SetEditCurPos(grid,1,0)
-    reaper.GetSet_LoopTimeRange( 1, 1, loopstart , grid, 0 ) -- set start on edit cursor and end on next visible grid
+    reaper.GetSet_LoopTimeRange( 1, 0, loopstart , grid, 0 ) -- set start on edit cursor and end on next visible grid
   end
 reaper.PreventUIRefresh( -1 )
 

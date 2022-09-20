@@ -16,7 +16,7 @@ reaper.PreventUIRefresh(1)
 
 -- Variables -------------------------------------------------------------------------
 reaper.Main_OnCommand(40289,0) -- clear item selection
-starttime, endtime = reaper.GetSet_LoopTimeRange2(0, false, false, 0, 0, false)
+starttime, endtime = reaper.GetSet_LoopTimeRange2(0, false, true, 0, 0, false)
 rplaystate = reaper.GetPlayStateEx( 0 )
 play_cursor_pos = reaper.GetPlayPosition()
 beat, measure, cml, fullbeats = reaper.TimeMap2_timeToBeats(0, play_cursor_pos)

@@ -14,7 +14,7 @@
 local finalpos = 0
 local editcur = reaper.GetCursorPosition()
 
-local  loopstart, loopend = reaper.GetSet_LoopTimeRange( 0, 0, 0, 0, 0 )
+local  loopstart, loopend = reaper.GetSet_LoopTimeRange( 0, 1, 0, 0, 0 )
 local retval, regionidx = reaper.GetLastMarkerAndCurRegion( 0, editcur )
 local _, _, rgnstart, _, _, _ = reaper.EnumProjectMarkers( regionidx )
 
