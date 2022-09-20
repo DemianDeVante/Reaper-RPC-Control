@@ -23,7 +23,7 @@ A descriptive label on the functions assigned to the knobs is displayed at the r
 * **Track Tools Toolbar**
 * **MIDI Editor Toolbar**
 * **Media Explorer Toolbar**
-* **FX Tools Toolbar*
+* **FX Tools Toolbar**
 * **Project Settings Toolbar** 
 
 ### Mixer Mode
