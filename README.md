@@ -32,6 +32,10 @@ To open the Reaper Resource Path go to Options >> Show Reaper resource path in e
 
 ![Import Keymap](https://user-images.githubusercontent.com/113860974/191146345-0d6454f5-3a74-41f0-927d-9cdbc70c0bfb.jpg)
 
+* In Preferences >> Audio >> Loop Recording  make sure "At each loop (creates new files, good for recording multiple audio layers on the fly etc)" is disabled
+
+![Looper D preferences](https://user-images.githubusercontent.com/113860974/191147958-3a531ecc-dfa0-415e-a4f6-1834cdb37cb2.jpg)
+
 ### RPC Control
 
 
