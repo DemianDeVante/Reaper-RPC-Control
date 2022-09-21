@@ -19,7 +19,6 @@ A descriptive label on the functions assigned to the knobs is displayed at the r
 
 * **Main Toolbar**
 <a href="url"><img src="https://imgur.com/olYJQp0.gif" ></a>  
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/olYJQp0" data-context="false" ><a href="//imgur.com/a/olYJQp0"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 * **Item Edit Toolbar**
 <a href="url"><img src="https://i.imgur.com/K2hXiyE.gif" ></a>
@@ -37,7 +36,7 @@ A descriptive label on the functions assigned to the knobs is displayed at the r
 <a href="url"><img src="https://i.imgur.com/VUuHuwX..gif" ></a>
 
 * **FX Tools Toolbar**
-<a href="url"><img src=".gif" width="550" ></a>
+<a href="url"><img src="https://drive.google.com/file/d/1UZyKMZMZW-pk_AUjFs6e4EukpAjdl8Gn/view?usp=sharing" width="550" ></a>
 
 * **Project Settings Toolbar** 
 <a href="url"><img src="https://imgur.com/u4jFXEN.gif" ></a>
