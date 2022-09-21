@@ -18,7 +18,7 @@ Has 8 Toolbabars you can switch with a long press, each with 16 actions you can 
 A descriptive label on the functions assigned to the knobs is displayed at the rightmost side of the toolbar.  
 
 * **Main Toolbar**
-<a href="url"><img src="https://imgur.com/olYJQp0.gif" ></a>  
+<a href="url"><img src="https://i.imgur.com/ZsZGhb5.mp4" ></a>  
 
 * **Item Edit Toolbar**
 <a href="url"><img src="https://i.imgur.com/K2hXiyE.gif" ></a>
