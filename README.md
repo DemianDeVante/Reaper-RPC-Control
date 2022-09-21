@@ -18,13 +18,13 @@ Has 8 Toolbabars you can switch with a long press, each with 16 actions you can 
 A descriptive label on the functions assigned to the knobs is displayed at the rightmost side of the toolbar.  
 
 * **Main Toolbar**
-<a href="url"><img src="https://i.imgur.com/ZsZGhb5" ></a>  
+![]()
 
 * **Item Edit Toolbar**
-<a href="url"><img src="https://i.imgur.com/K2hXiyE.gif" ></a>
+<a href="url"><img src="" ></a>
 
 * **Item Tools Toolbar**
-<a href="url"><img src="https://imgur.com/RQ0eFld.gif" ></a>
+<a href="url"><img src="" ></a>
 
 * **Track Tools Toolbar**
 <a href="url"><img src="https://i.imgur.com/RlaQ4tp.gif" ></a>
@@ -36,10 +36,10 @@ A descriptive label on the functions assigned to the knobs is displayed at the r
 <a href="url"><img src="https://i.imgur.com/VUuHuwX..gif" ></a>
 
 * **FX Tools Toolbar**
-<a href="url"><img src="https://user-images.githubusercontent.com/113860974/191417711-87ec44b9-5704-4bf2-8a19-64b71b0358b8.mp4" width="550" ></a>
+<a href="url"><img src="" width="550" ></a>
 
 * **Project Settings Toolbar** 
-<a href="url"><img src="https://imgur.com/u4jFXEN.gif" ></a>
+<a href="url"><img src="" ></a>
 
 
 ### Mixer Mode
