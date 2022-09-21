@@ -18,28 +18,28 @@ Has 8 Toolbabars you can switch with a long press, each with 16 actions you can 
 A descriptive label on the functions assigned to the knobs is displayed at the rightmost side of the toolbar.  
 
 * **Main Toolbar**
-<a href="url"><img src="https://i.imgur.com/olYJQp0.gif" width="550" ></a>
+<a href="url"><img src="https://i.imgur.com/olYJQp0.gif" ></a>
 
 * **Item Edit Toolbar**
-<a href="url"><img src="https://i.imgur.com/K2hXiyE.gif" width="550" ></a>
+<a href="url"><img src="https://i.imgur.com/K2hXiyE.gif" ></a>
 
 * **Item Tools Toolbar**
-<a href="url"><img src="https://imgur.com/RQ0eFld.gif" width="550" ></a>
+<a href="url"><img src="https://imgur.com/RQ0eFld.gif" ></a>
 
 * **Track Tools Toolbar**
-<a href="url"><img src="https://i.imgur.com/RlaQ4tp.gif" width="550" ></a>
+<a href="url"><img src="https://i.imgur.com/RlaQ4tp.gif" ></a>
 
 * **MIDI Editor Toolbar**
-<a href="url"><img src="https://imgur.com/sKgwXuM.gif" width="550" ></a>
+<a href="url"><img src="https://imgur.com/sKgwXuM.gif" ></a>
 
 * **Media Explorer Toolbar**
-<a href="url"><img src="https://i.imgur.com/VUuHuwX..gif" width="550" ></a>
+<a href="url"><img src="https://i.imgur.com/VUuHuwX..gif" ></a>
 
 * **FX Tools Toolbar**
 <a href="url"><img src=".gif" width="550" ></a>
 
 * **Project Settings Toolbar** 
-<a href="url"><img src="https://imgur.com/u4jFXEN.gif" width="550" ></a>
+<a href="url"><img src="https://imgur.com/u4jFXEN.gif" ></a>
 
 
 ### Mixer Mode
@@ -53,7 +53,7 @@ The next 8 Pads will change the behavior of the knobs to control the pan in sets
 A short press will change the take from 1 to 16 depending on the Pad pressed.  
 A long press with any pad will mute the take.  
 
-<a href="url"><img src="https://imgur.com/0TIJk0c.gif" width="550" ></a>
+<a href="url"><img src="https://imgur.com/0TIJk0c.gif" ></a>
 
 ### Disabled Mode
 In this Mode only the modifier button and program change messages will work, all the other Pads and Knobs are free to use with any Learn system (i.e. Reaper Action List or Parameter Learn)
