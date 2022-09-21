@@ -36,7 +36,7 @@ A descriptive label on the functions assigned to the knobs is displayed at the r
 <a href="url"><img src="https://i.imgur.com/VUuHuwX..gif" ></a>
 
 * **FX Tools Toolbar**
-<a href="url"><img src="https://drive.google.com/file/d/1UZyKMZMZW-pk_AUjFs6e4EukpAjdl8Gn/view?usp=sharing" width="550" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/113860974/191417711-87ec44b9-5704-4bf2-8a19-64b71b0358b8.mp4" width="550" ></a>
 
 * **Project Settings Toolbar** 
 <a href="url"><img src="https://imgur.com/u4jFXEN.gif" ></a>
