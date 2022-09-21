@@ -18,28 +18,28 @@ Has 8 Toolbabars you can switch with a long press, each with 16 actions you can 
 A descriptive label on the functions assigned to the knobs is displayed at the rightmost side of the toolbar.  
 
 * **Main Toolbar**
-![]()
+<video src='' width=550/>
 
 * **Item Edit Toolbar**
-<a href="url"><img src="" ></a>
+<video src='' width=550/>
 
 * **Item Tools Toolbar**
-<a href="url"><img src="" ></a>
+<video src='' width=550/>
 
 * **Track Tools Toolbar**
-<a href="url"><img src="https://i.imgur.com/RlaQ4tp.gif" ></a>
+<video src='' width=550/>
 
 * **MIDI Editor Toolbar**
-<a href="url"><img src="https://imgur.com/sKgwXuM.gif" ></a>
+<video src='' width=550/>
 
 * **Media Explorer Toolbar**
-<a href="url"><img src="https://i.imgur.com/VUuHuwX..gif" ></a>
+<video src='' width=550/>
 
 * **FX Tools Toolbar**
-<a href="url"><img src="" width="550" ></a>
+<video src='' width=550/>
 
 * **Project Settings Toolbar** 
-<a href="url"><img src="" ></a>
+<video src='' width=550/>
 
 
 ### Mixer Mode
@@ -47,13 +47,13 @@ Only shortpress needed.
 The first 8 Pads will change the behavior of the knobs to control the volume in sets of 8 tracks, up to 64 tracks.  
 The next 8 Pads will change the behavior of the knobs to control the pan in sets of 8 tracks, up to 64 tracks.  
 
-<a href="url"><img src=".gif" width="550" ></a>
+<video src='' width=550/>
 
 ### Looper Mode
 A short press will change the take from 1 to 16 depending on the Pad pressed.  
 A long press with any pad will mute the take.  
 
-<a href="url"><img src="https://imgur.com/0TIJk0c.gif" ></a>
+<video src='' width=550/>
 
 ### Disabled Mode
 In this Mode only the modifier button and program change messages will work, all the other Pads and Knobs are free to use with any Learn system (i.e. Reaper Action List or Parameter Learn)
