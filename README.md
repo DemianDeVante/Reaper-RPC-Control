@@ -18,22 +18,42 @@ Has 8 Toolbabars you can switch with a long press, each with 16 actions you can 
 A descriptive label on the functions assigned to the knobs is displayed at the rightmost side of the toolbar.  
 
 * **Main Toolbar**
+<a href="url"><img src="https://i.imgur.com/olYJQp0.gif" width="550" ></a>
+
 * **Item Edit Toolbar**
+<a href="url"><img src="https://i.imgur.com/K2hXiyE.gif" width="550" ></a>
+
 * **Item Tools Toolbar**
+<a href="url"><img src="https://imgur.com/RQ0eFld.gif" width="550" ></a>
+
 * **Track Tools Toolbar**
+<a href="url"><img src="https://i.imgur.com/RlaQ4tp.gif" width="550" ></a>
+
 * **MIDI Editor Toolbar**
+<a href="url"><img src="https://imgur.com/sKgwXuM.gif" width="550" ></a>
+
 * **Media Explorer Toolbar**
+<a href="url"><img src="https://i.imgur.com/VUuHuwX..gif" width="550" ></a>
+
 * **FX Tools Toolbar**
+<a href="url"><img src=".gif" width="550" ></a>
+
 * **Project Settings Toolbar** 
+<a href="url"><img src="https://imgur.com/u4jFXEN.gif" width="550" ></a>
+
 
 ### Mixer Mode
 Only shortpress needed.  
 The first 8 Pads will change the behavior of the knobs to control the volume in sets of 8 tracks, up to 64 tracks.  
 The next 8 Pads will change the behavior of the knobs to control the pan in sets of 8 tracks, up to 64 tracks.  
 
+<a href="url"><img src=".gif" width="550" ></a>
+
 ### Looper Mode
 A short press will change the take from 1 to 16 depending on the Pad pressed.  
 A long press with any pad will mute the take.  
+
+<a href="url"><img src="https://imgur.com/0TIJk0c.gif" width="550" ></a>
 
 ### Disabled Mode
 In this Mode only the modifier button and program change messages will work, all the other Pads and Knobs are free to use with any Learn system (i.e. Reaper Action List or Parameter Learn)
@@ -54,7 +74,7 @@ In this Mode only the modifier button and program change messages will work, all
 ## Installation
 To open the Reaper Resource Path go to (Options >> Show Reaper resource path in explorer/finder...).  
 
-  <a href="url"><img src="https://user-images.githubusercontent.com/113860974/191146302-e6bc7f96-15f2-4317-b8bf-177025e5368c.jpg" width="550" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/113860974/191146302-e6bc7f96-15f2-4317-b8bf-177025e5368c.jpg" width="550" ></a>
 
 ### Demian D Scripts & Looper D
 * Copy the Scripts folder into Reaper Resource Path.
