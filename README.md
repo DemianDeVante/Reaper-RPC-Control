@@ -85,7 +85,15 @@ To open the Reaper Resource Path go to (Options >> Show Reaper resource path in 
 
 * In (Controller compartment >> Mapping group >> Modifier) assign the button you want to use as a modifier for changing Modes, alternatively you can assign Program Change messages to do this function.  
 
+* Right click on toolbar and choose (Position toolbar > At top of main window)
+
 * Because of Reaper Focuses the Arrange Toolbar on Startup you should manually click the Toolbar you want to focus.
+
+* Whenever Reascript task control window shows up choose "Terminate instances".  
+
+<a href="url"><img src="https://user-images.githubusercontent.com/113860974/191396140-9972c144-1fed-43fa-8162-0ebfba5ae095.png" width="550" ></a>
+
+* Dock the MIDI Editor.
 
 The following settings are recommended:
 * In the MIDI Editor right click and set (View >> Piano Roll Timebase > Project Synced).
