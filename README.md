@@ -18,7 +18,7 @@ Has 8 Toolbabars you can switch with a long press, each with 16 actions you can 
 A descriptive label on the functions assigned to the knobs is displayed at the rightmost side of the toolbar.  
 
 * **Main Toolbar**
-[Imgur](https://imgur.com/olYJQp0)
+<blockquote class="imgur-embed-pub" lang="en" data-id="olYJQp0"><a href="https://imgur.com/olYJQp0">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 * **Item Edit Toolbar**
 <a href="url"><img src="https://i.imgur.com/K2hXiyE.gif" ></a>
