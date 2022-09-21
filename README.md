@@ -80,7 +80,7 @@ To open the Reaper Resource Path go to (Options >> Show Reaper resource path in 
 * Copy the Scripts folder into Reaper Resource Path.
 * Import "Demian D Script Pack.ReaperKeyMap" through: (Action List >> Key map... >> Import shortcut keymap).  
 
-<a href="url"><img src="[https://user-images.githubusercontent.com/113860974/191146345-0d6454f5-3a74-41f0-927d-9cdbc70c0bfb.jpg" width="550" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/113860974/191146345-0d6454f5-3a74-41f0-927d-9cdbc70c0bfb.jpg" width="550" ></a>
 
 * In (Preferences >> Audio >> Loop Recording)  make sure "At each loop (creates new files, good for recording multiple audio layers on the fly etc)" is disabled.
 
