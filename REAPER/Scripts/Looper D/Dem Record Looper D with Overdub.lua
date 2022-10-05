@@ -62,14 +62,14 @@ function update_autoscroll()
   reaper.Main_OnCommand(40036,0) -- toggle auto scroll view during playback
 end
 
-function trim_loopend(xtrack)
+function trim_loopend(xtrack, isarmed)
   local item_count = reaper.CountTrackMediaItems( xtrack )
   for nitem = 0 , item_count -1 do
     local xitem = reaper.GetTrackMediaItem( xtrack, nitem )
     local item_pos = reaper.GetMediaItemInfo_Value( xitem, 'D_POSITION' )
     local item_length = reaper.GetMediaItemInfo_Value( xitem, 'D_LENGTH' )
     local item_end = item_pos + item_length
-    if ( item_pos < endtime and item_end > endtime ) then
+    if ( item_pos < endtime and item_end > endtime ) and isarmed == 1 then
       reaper.SetMediaItemInfo_Value( xitem, 'D_LENGTH', endtime - item_pos )
     end
   end
@@ -150,7 +150,7 @@ function record_normal()
       local is_armed =  reaper.GetMediaTrackInfo_Value( xtrack , 'I_RECARM' )
       local rec_mode =  reaper.GetMediaTrackInfo_Value( xtrack, 'I_RECMODE' )
       local rec_input = reaper.GetMediaTrackInfo_Value(xtrack, 'I_RECINPUT')
-      if is_armed then trim_loopend(xtrack) end
+      if is_armed then trim_loopend(xtrack, is_armed) end
       ---------- Overdub Loop Source --------------
       if is_armed == 1 and (isvalintable(rec_mididub_table, rec_mode)) then
         for i = 0, reaper.CountTrackMediaItems( xtrack ) -1 do
@@ -241,6 +241,7 @@ end
 function stop_recording()
   reaper.Undo_BeginBlock()
   reaper.PreventUIRefresh(1)
+  reaper.SelectAllMediaItems(0,0)
   local rplaystate = reaper.GetPlayStateEx( 0 )
   if rplaystate == 5 then
     reaper.Main_OnCommand(1013,0) -- record
@@ -261,8 +262,10 @@ local rplaystate = reaper.GetPlayStateEx( 0 )
 if rplaystate ~= 5 then ---------------------------- If not recording Start Record
   reaper.SetToggleCommandState(sec_id, cmd_id, 1)
   reaper.Undo_BeginBlock()
-  reaper.PreventUIRefresh(1)  
-  reaper.SetEditCurPos2( 0, starttime, true, false )
+  reaper.PreventUIRefresh(1) 
+  if starttime ~= endtime then
+    reaper.SetEditCurPos2( 0, starttime, true, false )
+  end
   reaper.Main_OnCommand(40076,0)  -- set to auto punch mode
   record_overdub()
   reaper.Main_OnCommand(1013,0) -- record

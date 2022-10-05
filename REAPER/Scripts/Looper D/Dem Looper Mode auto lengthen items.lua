@@ -34,7 +34,7 @@ function lengthen_last_item_track()
     new_item_length = next_measure - item_pos
     if item_length ~= new_item_length then
       -- if (playstate == 1 or  playstate == 4) and ( item_end - measure_length )  < play_cursor_pos then -- only lengthen items
-      if (playstate == 1 or  playstate == 4) and ( item_pos )  < play_cursor_pos then -- can trim items
+      if (playstate == 1 or playstate == 5) and ( item_pos )  < play_cursor_pos then -- can trim items
         reaper.SetMediaItemInfo_Value( last_item, 'B_LOOPSRC', 1 )
         reaper.SetMediaItemInfo_Value( last_item, 'D_LENGTH', new_item_length )
         reaper.UpdateTimeline()
@@ -58,9 +58,12 @@ function tracktag()
     track_count =  reaper.CountTracks( 0 )
     for ntrack = 0, track_count -1 do
       xtrack =  reaper.GetTrack( 0, ntrack )
-      trackguid = reaper.GetTrackGUID( xtrack ) -- get track guid
-      is_saved_track_color ,saved_track_color = reaper.GetProjExtState( 0, "dem_arm_for_looping" , trackguid ) -- get saved
-      if is_saved_track_color == 1 then -- make sure track is tagged
+      _,name = reaper.GetSetMediaTrackInfo_String(xtrack,'P_NAME','',0)
+      ismarked = name:match('^®')
+      if ismarked then
+--      trackguid = reaper.GetTrackGUID( xtrack ) -- get track guid
+--      is_saved_track_color ,saved_track_color = reaper.GetProjExtState( 0, "dem_arm_for_looping" , trackguid ) -- get saved
+--      if is_saved_track_color == 1 then -- make sure track is tagged
         lengthen_last_item_track()
       end
     end
