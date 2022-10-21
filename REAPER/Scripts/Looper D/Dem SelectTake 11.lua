@@ -14,9 +14,11 @@
 reaper.Undo_BeginBlock()
 reaper.PreventUIRefresh(1)
 
+local threshold = 10^-10
 -- Variables -------------------------------------------------------------------------
 reaper.Main_OnCommand(40289,0) -- clear item selection
 starttime, endtime = reaper.GetSet_LoopTimeRange2(0, false, true, 0, 0, false)
+starttime, endtime = starttime, endtime
 rplaystate = reaper.GetPlayStateEx( 0 )
 play_cursor_pos = reaper.GetPlayPosition()
 beat, measure, cml, fullbeats = reaper.TimeMap2_timeToBeats(0, play_cursor_pos)
@@ -28,18 +30,14 @@ is_snapping = reaper.GetToggleCommandStateEx( 0, 1157 )
 if starttime == endtime then -- no time selection
   if rplaystate == 1 then -- if playing
     if is_snapping == 1 then
-      take_start_pos = next_measure
+      item_cursor_pos = next_measure
     else 
-      take_start_pos = play_cursor_pos
+      item_cursor_pos = play_cursor_pos
     end
-    item_cursor_pos = play_cursor_pos
-
-  elseif rplaystate <=2 then -- if not playing
-    take_start_pos = edit_cursor_pos
+  elseif rplaystate ~=1 then -- if not playing
     item_cursor_pos = edit_cursor_pos
   end
 else
-  take_start_pos = starttime
   item_cursor_pos = starttime
 end
 
@@ -48,14 +46,17 @@ track_count = reaper.CountSelectedTracks( 0 )
 for ntrack = 0, track_count -1 do 
   xtrack = reaper.GetSelectedTrack( 0, ntrack )
   item_count = reaper.CountTrackMediaItems( xtrack )
-  for nitem = 0, item_count -1 do
-    xitem = reaper.GetTrackMediaItem( xtrack, nitem )
+  local w_count=0
+  while w_count < item_count do
+    xitem = reaper.GetTrackMediaItem( xtrack, w_count )
      item_pos=reaper.GetMediaItemInfo_Value( xitem, "D_POSITION")
      item_length=reaper.GetMediaItemInfo_Value(xitem, "D_LENGTH")
-     if item_pos <= item_cursor_pos and item_pos+item_length > item_cursor_pos then
-       newitem = reaper.SplitMediaItem( xitem , take_start_pos )
-       if newitem == null then
-         newitem = xitem
+     if item_pos <= item_cursor_pos+threshold and item_pos+item_length > item_cursor_pos+threshold then
+       newitem = reaper.SplitMediaItem( xitem , item_cursor_pos )
+       if newitem then
+         item_count=item_count+1
+       else
+         newitem=xitem
        end
        reaper.SetMediaItemInfo_Value( newitem, "B_MUTE" , 0 )
        take = reaper.GetMediaItemTake(newitem,10)
@@ -63,6 +64,7 @@ for ntrack = 0, track_count -1 do
        reaper.SetActiveTake(take)
        end
     end
+  w_count=w_count+1
   end
 end
 

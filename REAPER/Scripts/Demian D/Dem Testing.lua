@@ -11,14 +11,5 @@
 --    ⠀⠀⠀⢸⠀⠀⠀⠀⢤⢤⢄⢤⠀⠀⠀⠀⠀⠀⠀⠀   
 --    ⠀⠀⠀⣴⣯⣿⣿⣯⢁⠀⠀⠈⣯⣿⣿⣿⣄⠀⠀⠀    @ Donation :                                  https://paypal.me/DemianDeVante
 
-   -- reaper.SelectAllMediaItems(0,0)
-   
-function unselect_all_items()
-  for i=0, reaper.CountSelectedMediaItems(0)-1 do
-    reaper.SetMediaItemSelected(reaper.GetSelectedMediaItem(0,0),0)
-  end
-end
+-- I use this script just for testing
 
-unselect_all_items()
-    
-    reaper.defer(function()end)

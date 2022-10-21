@@ -11,6 +11,7 @@
 --    ⠀⠀⠀⢸⠀⠀⠀⠀⢤⢤⢄⢤⠀⠀⠀⠀⠀⠀⠀⠀   
 --    ⠀⠀⠀⣴⣯⣿⣿⣯⢁⠀⠀⠈⣯⣿⣿⣿⣄⠀⠀⠀    @ Donation :                                  https://paypal.me/DemianDeVante
 
+local threshold=10^-10
 reaper.Undo_BeginBlock()
 reaper.PreventUIRefresh( 1 )
 pos=reaper.GetCursorPosition()
@@ -24,7 +25,7 @@ for ntrack = 0, track_count -1 do
     item_track=reaper.GetMediaItem_Track( item )
     item_length=reaper.GetMediaItemInfo_Value( item, "D_LENGTH")
     is_selected = reaper.IsMediaItemSelected( item )
-    if item_pos <= pos and item_pos + item_length > pos then 
+    if item_pos <= pos+threshold and item_pos + item_length > pos+threshold then 
         is_selected = reaper.IsMediaItemSelected( item )
         if is_selected then
           undodescription = "Unselect Item"
