@@ -70,6 +70,7 @@ In this Mode only the modifier button and program change messages will work, all
 * Demian D Scripts & Looper D
 * [Quick Adder](https://forum.cockos.com/showthread.php?t=232928)
 * [X-Raym_Move selected tracks up/down on visible track list](https://forum.cockos.com/showthread.php?t=178071) (available through Reapack)
+* [MIDI Mute Group](https://forum.cockos.com/showthread.php?t=141444) (recommended for an MPC style Drum Trigger)
 
 ## Installation
 To open the Reaper Resource Path go to (Options >> Show Reaper resource path in explorer/finder...).  
