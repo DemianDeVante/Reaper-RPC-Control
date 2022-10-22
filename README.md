@@ -1,6 +1,8 @@
 # RPC Control and Scripts for Reaper DAW
 This is a collection of scripts and custom actions made in order to make MIDI controllers more useful with Reaper.  
 
+[![Video](https://yt-embed.herokuapp.com/embed?v=4QIFIsZSVJ8&t=328s)](https://www.youtube.com/watch?v=4QIFIsZSVJ8&t=328s "Video")
+
 ## Features
 * **RPC Control:**  
   A minimalistic ReaLearn Template in order to achieve a nearly mouseless workflow, influenced by MPC workstations.  
