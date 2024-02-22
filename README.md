@@ -1,7 +1,7 @@
 # RPC Control and Scripts for Reaper DAW
 This is a collection of scripts and custom actions made in order to make MIDI controllers more useful with Reaper.  
 
-[![Video](https://yt-embed.herokuapp.com/embed?v=4QIFIsZSVJ8&t=328s)](https://www.youtube.com/watch?v=4QIFIsZSVJ8&t=328s "Video")
+[![Video](https://private-user-images.githubusercontent.com/113860974/306964335-32ea9264-e444-4b14-9c2b-92788ce312c7.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg1OTg3MzEsIm5iZiI6MTcwODU5ODQzMSwicGF0aCI6Ii8xMTM4NjA5NzQvMzA2OTY0MzM1LTMyZWE5MjY0LWU0NDQtNGIxNC05YzJiLTkyNzg4Y2UzMTJjNy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyMlQxMDQwMzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZjlmNmE3NmI0OTY4NmJmYTA1ZmViMDdiZTllNjMzNmJiZjgyODA4MWI1Njc0ZDE5Y2UzZWE1NDZjNzE5MTFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GRw4acW0NUjlZml6k5wBC_7nkqxAp2GW2fmJAFI37zE)](https://www.youtube.com/watch?v=4QIFIsZSVJ8&t=328s "Video")
 
 ## Features
 * **RPC Control:**  
