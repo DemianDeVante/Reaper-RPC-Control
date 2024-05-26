@@ -1,7 +1,7 @@
 # RPC Control and Scripts for Reaper DAW
 This is a collection of scripts and custom actions made in order to make MIDI controllers more useful with Reaper.  
 
-[![Video](https://img.youtube.com/vi/4QIFIsZSVJ8&t=328s/0.jpg)](https://www.youtube.com/watch?v=4QIFIsZSVJ8&t=328s)
+[![Video]([https://img.youtube.com/vi/4QIFIsZSVJ8&t=328s/0.jpg](https://stash.reaper.fm/48616/4QIFIsZSVJ8-HD.jpg))](https://www.youtube.com/watch?v=4QIFIsZSVJ8&t=328s)
 
 ## Features
 * **RPC Control:**  
